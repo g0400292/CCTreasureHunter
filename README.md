@@ -1,0 +1,4 @@
+CCTreasureHunter
+================
+
+Codecamp - Treasure Hunter

@@ -1,0 +1,29 @@
+body{
+height:auto;
+background: 50% 50% no-repeat;
+background: radial-gradient(#a1e048, #6a942f);
+}
+#page{
+width:500px;
+margin:0 auto;
+}
+#inputs{
+position:absolute;
+}
+#nimi{
+position: absolute;
+width: 90px;
+}
+#pressme{	
+position:absolute;
+margin-left:100px;
+}
+p{
+position:relative;
+}
+#bonas{
+	color:green;
+}
+#death{
+	color:red;
+}
